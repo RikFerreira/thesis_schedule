@@ -1,6 +1,7 @@
 library(tidyverse)
 library(reshape2)
 library(lubridate)
+library(scales)
 
 inicio <- dmy("01/01/2020")
 
